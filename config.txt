@@ -1,0 +1,95 @@
+#Window' frames size
+
+helpFrameWidth=600
+helpFrameHeight=750
+startFrameWidth=1280
+startFrameHeight=720
+loginFrameWidth=400
+loginFrameHeight=300
+highScoresFrameWidth=500
+highScoresFrameHeight=550
+maxRowsNumber=10
+heroSelectFrameWidth=1280
+heroSelectFrameHeight=720
+gameFrameWidth=1015
+gameFrameHeight=715
+mapWidth=13
+mapHeight=13
+
+#Rules, authors
+
+rules=RULES OF THE GAME: \nTo win this game you need to find the door to the next level, which is hidden under the rock. Use bombs to destroy rocks. Watch out for monsters, they do damage if you are too close. You can avoid them or try to kill using bombs to gain extra points.
+rulesWidth=500
+rulesHeight=170
+authors=Made by: Piotr Kurowski & Natalia Kwasek
+
+#Design parameters
+
+backColorR=245
+backColorG=207
+backColorB=193
+fontSize=18
+
+#Images paths
+
+logo=images/Dyna.png
+controlsPath=images/controls.png
+spacePath=images/space.png
+escPath=images/escape.png
+heartFullImagePath=images/heart_full.png
+heartEmptyImagePath=images/heart_empty.png
+starFullImagePath=images/star_full.png
+starEmptyImagePath=images/star_empty.png
+bombFullImagePath=images/bomb_full.png
+bombEmptyImagePath=images/bomb_empty.png
+nextButtonImagePath=images/nextButton.png
+previousButtonImagePath=images/previousButton.png
+heroImagePath=images/hero1_32.png
+heroineImagePath=images/heroine_32.png
+stoneImagePath=images/stone32x32.png
+wallImagePath=images/wall32_32.png
+airImagePath=images/air32x32.png
+voidImagePath=images/void32x32.png
+bombImagePath=images/bomb32x32.png
+redBombImagePath=images/redBomb32x32.png
+bombTimeToExplode=3
+fire1ImagePath=images/fire/f1.png
+fire2ImagePath=images/fire/f2.png
+fire3ImagePath=images/fire/f3.png
+fire4ImagePath=images/fire/f4.png
+fire5ImagePath=images/fire/f5.png
+fire6ImagePath=images/fire/f6.png
+portalImagePath=images/portal.png
+monsterImagePath=images/monster32x32.png
+timeScorePerLevel=1000
+normalSpeed=3
+normalFireRate=10
+fireTimeToDisappear=2
+fireFrames=6
+fireFramesTickRate=100
+scoreLostPerSec=2
+defaultTickRate=1000
+pointsPerHp=500
+pointsPerMonster=200
+pointsPerCoin=250
+coinImagePath=images/coin32x32.png
+heartImagePath=images/heart32x32.png
+monsterSpeed=5
+
+
+#Heros parameters
+
+heroDescription=Tough guy, born in the suburbs, raised by the street. He blew up his first bomb at the age of 4. Now he is a professional and does it faster than anyone else.
+heroineDescription=On daily basis - mother of two kids, at the weekends - BomberWoman. High hills give her extra speed bonus and the pink suit makes her look awesome.
+heroHp=2
+heroineHp=3
+heroSpeed=3
+heroineSpeed=4
+heroFireRate=4
+heroineFireRate=2
+
+#levels
+
+nrOfLevels=2
+
+
